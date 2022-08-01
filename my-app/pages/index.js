@@ -198,7 +198,7 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to ITU Dapp!</h1>
+          <h1 className={styles.title}>Welcome to ITU dApp!</h1>
           <div className={styles.description}>
             Its an NFT collection for students at ITU.
           </div>
