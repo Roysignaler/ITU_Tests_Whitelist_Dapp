@@ -194,7 +194,7 @@ export default function Home() {
       <Head>
         <title>ITU Whitelist Dapp</title>
         <meta name="description" content="Whitelist-Dapp" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/BSG_tn.svg" />
       </Head>
       <div className={styles.main}>
         <div>
@@ -213,7 +213,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by BSG
+        Made with &#10084; by BSG & LearnWeb3DAO
       </footer>
     </div>
   );
